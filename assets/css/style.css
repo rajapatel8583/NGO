@@ -180,7 +180,7 @@ header .nav-items {
   height: 37.5rem;
   overflow: hidden;
   transition: all ease-in-out 0.5s;
-  background-image: url(../images/slider/Top.jpg);
+  background-image: url(assets/images/Top.jpg);
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
