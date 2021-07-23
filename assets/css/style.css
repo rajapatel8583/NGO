@@ -177,10 +177,13 @@ header .nav-items {
 /* ================================ Slider CSS =============================== */
 .banner {
   position: relative;
-  height: 30.5rem;
+  height: 37.5rem;
   overflow: hidden;
   transition: all ease-in-out 0.5s;
   background-image: url("Top.jpg");
+    background-image: url("Top.jpg");
+  background-image: url("Top.jpg");
+
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
