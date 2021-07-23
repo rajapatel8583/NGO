@@ -184,7 +184,9 @@ header .nav-items {
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
-  padding: 3.125rem 0; }
+  padding: 3.125rem 0; 
+  margin-top:2rem;
+}
   .banner .wrapper {
     position: relative;
     display: inline-block;
